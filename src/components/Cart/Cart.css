@@ -1,7 +1,38 @@
-.cart_container{
-    background-color: tomato;
+.cart_container_{
+    background-color: cornflowerblue;
     height: 500px;
+    padding: 10px;
+    border-radius: 7px;
+    overflow: auto;
+    position: sticky;
+    top: 0;
 }
 .removeButton{
     background-color: red;
+}
+.orange_{
+    background-color: orange;
+}
+.red_{
+    background-color: red;
+}
+.yellow_{
+    background-color: yellow;
+    color: black;
+}
+.purple_{
+    background-color: purple;
+}
+.green_{
+    background-color: green;
+}
+.need{
+    padding:3px 5px;
+    border-radius: 5px;
+}
+.bold_{
+    font-weight: 700;
+}
+.border_{
+    border: 2px solid salmon;
 }
