@@ -2,3 +2,6 @@
     background-color: tomato;
     height: 500px;
 }
+.removeButton{
+    background-color: red;
+}
